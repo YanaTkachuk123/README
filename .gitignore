@@ -1,4 +1,2 @@
 .idea
 .vscode
-git add .gitignore
-git commit -m '.gitignore was added'
